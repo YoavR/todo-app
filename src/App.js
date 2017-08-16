@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 // import logo from './logo.svg';
+//nogah the queen
 import './App.css';
 import Navbar from './components/Navbar.js'
 import Login from './components/Login.js'
